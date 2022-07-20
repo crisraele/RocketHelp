@@ -1,4 +1,4 @@
-# RocketHelp
+# RocketHelp ⚡ 
 App de gerenciamento de atividades...
 O App foi criado com React Native utilizando o Expo, Bare Workflow -minimal. 
 
@@ -13,3 +13,4 @@ O App foi criado com React Native utilizando o Expo, Bare Workflow -minimal.
 ### Você pode utilizar este projeto como base, ou fazer alguma alteração se achar conveniente :)
 
 Para utilizar este projeto dê um git clone e abra na sua IDE, dê um npm install e, pronto!
+
